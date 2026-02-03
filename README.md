@@ -27,7 +27,7 @@ For example, students on campus can report safety or infrastructure issues near 
 
 ## 🧱 Technologies & Concepts
 
-- **Platform Type:** Mobile / Web Application (Concept & Design)  
+- **Platform Type:** Application Design and Testing Specification
 - **Core Features:**  
   - Interactive map-based reporting  
   - Location-aware issue tracking  
