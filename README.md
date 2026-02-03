@@ -6,9 +6,9 @@ A user-friendly **public issue reporting application** that enables citizens to 
 
 ## 👥 Authors
 
+- Abisa Rajkumar
 - Parmis Nouri  
 - Silvia Das  
-- Abisa Rajkumar  
 
 ---
 
