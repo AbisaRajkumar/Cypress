@@ -1,0 +1,4 @@
+pnouri|Nnn@1234|Parmis|Nouri|+1-437-333-9999|resident
+parmisnouri|N@n12345|Mona|Nouri|+1-416-555-1234|resident
+mayaCollins|Maya@2003|Maya|Collins|+1-312-555-8372|city official
+bnouri|Nnn@1234|Bina|Nouri|+1-437-888-9999|resident
